@@ -1,0 +1,6 @@
+Simyacı,Paulo Coelho,5
+Suç ve Ceza,Fyodor Dostoyevski,2
+Hayvan Çiftliği,George Orwell,4
+Kürk Mantolu Madonna,Sabahattin Ali,3
+1984,George Orwell,6
+

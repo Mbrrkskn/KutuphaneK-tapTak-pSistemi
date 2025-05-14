@@ -1,0 +1,15 @@
+[2025-05-15 02:13:46] Yeni kitaplar.txt oluşturuldu.
+[2025-05-15 02:13:46] Kitap verileri okundu.
+[2025-05-15 02:17:06] Kitap verileri okundu.
+[2025-05-15 02:18:09] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:18:09] Kitap eklendi: ölü ozanlar derneği
+[2025-05-15 02:18:28] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:25:12] Kitap verileri okundu.
+[2025-05-15 02:25:43] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:25:43] Kitap eklendi: Kürk Mantolu Madonna
+[2025-05-15 02:41:14] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:42:12] HATA: Silinmek istenen kitap bulunamadı: Simyacı
+[2025-05-15 02:43:35] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:43:57] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:44:19] Kitap verileri dosyaya yazıldı.
+[2025-05-15 02:44:36] Kitap verileri dosyaya yazıldı.
